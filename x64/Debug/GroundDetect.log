@@ -1,0 +1,22 @@
+﻿  Ground.cpp
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(20,39): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(21,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(57,66): warning C4244:  '=': conversion from '__int64' to 'int', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(98,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(99,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(100,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(118,23): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(157,44): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(190,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(191,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(192,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(222,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(223,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+D:\Opencv\GroundDetect\GroundDetect\Ground.cpp(224,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Opencv\GroundDetect\GroundDetect\Main.cpp(44,67): warning C4305:  'argument': truncation from 'double' to 'float'
+  VDisparity.cpp
+D:\Opencv\GroundDetect\GroundDetect\Main.cpp(45,80): warning C4305:  'argument': truncation from 'double' to 'float'
+  Generating Code...
+D:\Opencv\GroundDetect\GroundDetect\VDisparity.cpp(50,9): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+  GroundDetect.vcxproj -> D:\Opencv\GroundDetect\x64\Debug\GroundDetect.exe
